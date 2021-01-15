@@ -1,0 +1,3 @@
+setup:
+give(12);
+main:

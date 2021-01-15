@@ -1,0 +1,7 @@
+setup:
+setmode(2);
+main:
+when:
+Y press:
+move(0,0,0);
+setrotation(0,0);
